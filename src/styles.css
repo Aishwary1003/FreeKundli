@@ -1,0 +1,12 @@
+/* src/styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+@media(max-width:500px){
+    .Carousel{
+        height:100px;
+        width: 100px;
+    }
+}
